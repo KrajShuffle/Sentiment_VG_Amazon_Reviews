@@ -1,2 +1,2 @@
-# Sentiment_VG_Amazon_Reviews
-I am conducting a Sentiment Analysis on Video Game reviews available on Amazon.
+# Sentiment Analysis of Reviews of Video Games listed on Amazon
+The goal of this analysis is to assess whether the sentiment noted in reviews of products with at least a certain minimum number of reviews is a viable predictor of the average rating of those products. If this is the case, can the sentiment in reviews of samples (chosen in a specific manner) of the dataset serve as viable estimators of the average rating of the products.
